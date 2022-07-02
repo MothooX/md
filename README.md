@@ -11,3 +11,5 @@
 
 <p align="center"><img src="https://media.discordapp.net/attachments/992123376887922888/992812930234077304/unknown.png" width="1078" height="433" alt="POWER"></p>
 <p align="center"><img src="https://media.discordapp.net/attachments/992123376887922888/992813319029260349/unknown.png" width="1078" height="433" alt="POWER"></p>
+
+## Features
