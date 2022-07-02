@@ -11,3 +11,17 @@
 
 <p align="center"><img src="https://media.discordapp.net/attachments/992123376887922888/992812930234077304/unknown.png" width="1078" height="433" alt="POWER"></p>
 <p align="center"><img src="https://media.discordapp.net/attachments/992123376887922888/992813319029260349/unknown.png" width="1078" height="433" alt="POWER"></p>
+
+## Features
+* Shutdown a Minecraft Server in less then 10 seconds
+* Choose from up to 500 bots
+* All minecraft version are supported
+* Ability to change the version
+* Custom IP & PORT DDoS Attack
+* & More ;)
+
+## What's Next:
+* Changing the MAX BOTS number to 1500 bots
+* Adding CUSTOM bot name attack to bypass security system
+* Adding CUSTOM PROXY settings to change the proxy for every bot
+* Adding new spam system in the bots
