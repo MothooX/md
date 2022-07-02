@@ -10,4 +10,4 @@
   <p align="center">Please don't use this tool to an server without owner permissions.</p>
 
 <p align="center"><img src="https://media.discordapp.net/attachments/992123376887922888/992812930234077304/unknown.png" width="1078" height="433" alt="POWER"></p>
-<p align="center"><img src="![image](https://user-images.githubusercontent.com/98584056/177010075-4b83a57f-e081-475c-8db3-408563330bfc.png)" width="1078" height="296" alt="SCRIPT"></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/992123376887922888/992812930234077304/unknown.png" width="1078" height="433" alt="POWER"></p>
