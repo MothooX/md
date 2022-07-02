@@ -7,4 +7,4 @@
 <a href="#"><img alt="MH-DDoS License" src="https://img.shields.io/github/license/MothooX/MD?color=orange&style=for-the-badge"></a>
 <a href="https://github.com/MothooX/MD/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/MothooX/MD?color=purple&style=for-the-badge"></a>
 
-  <p align="center">Please don't use this tool to an server without server permissions.</p>
+  <p align="center">Please don't use this tool to an server without owner permissions.</p>
